@@ -10,7 +10,7 @@
    ▸ All dynamic content across the page pulls from here.
 ═══════════════════════════════════════════ */
 const RELEASE = {
-  version:     "v1.2.0",
+  version:     "v1.0.2",
   date:        "March 1, 2026",
   dateShort:   "March 2026",
   checksum:    "a3f2c1d9e8b74f5c2a6d3e9f1b0c8d7e4a2f5c1d9e8b74f6e2a1d0c9b3f5e7a",
